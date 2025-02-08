@@ -84,15 +84,3 @@ data = {
     'max_tokens': 1000          # 最大回复长度
 }
 ```
-
-## 📄 许可证
-
-[MIT License](LICENSE)
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 📞 支持
-
-如果您在使用过程中遇到任何问题，请通过 Issue 与我们联系。
